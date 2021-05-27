@@ -1,7 +1,7 @@
 # Developer_Survey
 Findings from Stackoverflow Developer Survey
 
-##Table of Contents
+## Table of Contents
 - Installation
 - Project Motivation
 - File Descriptions
