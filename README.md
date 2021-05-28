@@ -21,7 +21,6 @@ For this project, I was interestested in using Stack Overflow data from 2017-202
 - What was the state of bootcamps for assisting individuals with breaking into developer roles?
 - How were bootcamps assisting with increasing diversity in tech careers?
 
-The full set of files related to this course are owned by Udacity, so they are not publicly available here. However, you can see pieces of the analysis [here](www.medium.com).
 
 ## File Descriptions
 
