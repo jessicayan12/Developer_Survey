@@ -13,7 +13,7 @@ Findings from Stackoverflow Developer Survey
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
 
 ## Project Motivation
-For this project, I was interestested in using Stack Overflow data from 2017-2020 to better understand:
+For this project, I was interestested in using Stack Overflow data from 2020 to better understand:
 
 - How other developers suggested breaking into the field (what education to pursue)?
 - What factors about an individual contributed to salary?
