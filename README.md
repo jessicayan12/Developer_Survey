@@ -19,7 +19,6 @@ For this project, I was interestested in using Stack Overflow data from 2020 to 
 - What factors about an individual contributed to salary?
 - How bias played a role in the suggestions of developers for how to break into the field?
 - What was the state of bootcamps for assisting individuals with breaking into developer roles?
-- How were bootcamps assisting with increasing diversity in tech careers?
 
 
 ## File Descriptions
